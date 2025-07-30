@@ -1,0 +1,6 @@
+slot_id,spot_id,lot_name,parking_time,released_time,cost,remarks
+5,1,kochi,2025-07-30 09:11 AM,2025-07-30 09:11 AM,15.0,out
+4,1,kochi,2025-07-30 09:11 AM,2025-07-30 09:11 AM,15.0,out
+3,1,kochi,2025-07-30 02:06 AM,2025-07-30 02:11 AM,10.0,out
+2,1,kochi,2025-07-30 02:06 AM,2025-07-30 02:06 AM,10.0,out
+1,1,kochi,2025-07-30 02:05 AM,2025-07-30 02:05 AM,10.0,out

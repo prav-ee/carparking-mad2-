@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Login
+Flask-Caching
+Flask-CORS
+Flask-Mail
+redis
+celery
+requests
+flask_jwt_extended
+pytz
